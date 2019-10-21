@@ -1,0 +1,2 @@
+timer_activities.c:11:6:timer_led_on	8	static
+timer_activities.c:15:6:timer_led_off	8	static

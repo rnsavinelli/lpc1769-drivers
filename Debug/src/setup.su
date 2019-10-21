@@ -1,0 +1,2 @@
+setup.c:14:6:System_Initialize	8	static
+setup.c:27:6:System_Run	8	static

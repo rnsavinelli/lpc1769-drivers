@@ -1,0 +1,1046 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/sm/SM_blinking.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_blinking.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_blinking.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_blinking.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_blinking.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_blinking.o
+ .text          0x0000000000000000        0x0 ./src/sm/SM_blinking.o
+ .data          0x0000000000000000        0x0 ./src/sm/SM_blinking.o
+ .bss           0x0000000000000000        0x0 ./src/sm/SM_blinking.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_operating.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_operating.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_operating.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_operating.o
+ .text          0x0000000000000000        0x0 ./src/sm/SM_operating.o
+ .data          0x0000000000000000        0x0 ./src/sm/SM_operating.o
+ .bss           0x0000000000000000        0x0 ./src/sm/SM_operating.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/sm/SM_operating.o
+ .debug_macro   0x0000000000000000       0x3a ./src/sm/SM_operating.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_standby.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_standby.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_standby.o
+ .text          0x0000000000000000        0x0 ./src/sm/SM_standby.o
+ .data          0x0000000000000000        0x0 ./src/sm/SM_standby.o
+ .bss           0x0000000000000000        0x0 ./src/sm/SM_standby.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/sm/SM_standby.o
+ .debug_macro   0x0000000000000000       0x3a ./src/sm/SM_standby.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/sm/SM_system.o
+ .text          0x0000000000000000        0x0 ./src/sm/SM_system.o
+ .data          0x0000000000000000        0x0 ./src/sm/SM_system.o
+ .bss           0x0000000000000000        0x0 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000000       0x3a ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000000       0x28 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000000       0x2e ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000000       0x70 ./src/sm/SM_system.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Keyboard.o
+ .text          0x0000000000000000        0x0 ./src/pr/PR_Keyboard.o
+ .data          0x0000000000000000        0x0 ./src/pr/PR_Keyboard.o
+ .bss           0x0000000000000000        0x0 ./src/pr/PR_Keyboard.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/pr/PR_Keyboard.o
+ .debug_macro   0x0000000000000000       0x3a ./src/pr/PR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_LEDS.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_LEDS.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_LEDS.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_LEDS.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_LEDS.o
+ .text          0x0000000000000000        0x0 ./src/pr/PR_LEDS.o
+ .data          0x0000000000000000        0x0 ./src/pr/PR_LEDS.o
+ .bss           0x0000000000000000        0x0 ./src/pr/PR_LEDS.o
+ .text.LED_Status
+                0x0000000000000000       0x4a ./src/pr/PR_LEDS.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/pr/PR_LEDS.o
+ .debug_macro   0x0000000000000000       0x3a ./src/pr/PR_LEDS.o
+ .debug_macro   0x0000000000000000       0x52 ./src/pr/PR_LEDS.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Timers.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Timers.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Timers.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_Timers.o
+ .text          0x0000000000000000        0x0 ./src/pr/PR_Timers.o
+ .data          0x0000000000000000        0x0 ./src/pr/PR_Timers.o
+ .bss           0x0000000000000000        0x0 ./src/pr/PR_Timers.o
+ .text.TimerStop
+                0x0000000000000000       0x54 ./src/pr/PR_Timers.o
+ .text.GetTimerTime
+                0x0000000000000000       0x28 ./src/pr/PR_Timers.o
+ .text.TimerPause
+                0x0000000000000000       0x44 ./src/pr/PR_Timers.o
+ .text.TimerEvent
+                0x0000000000000000       0x98 ./src/pr/PR_Timers.o
+ .text.TimersClear
+                0x0000000000000000        0xc ./src/pr/PR_Timers.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/pr/PR_Timers.o
+ .debug_macro   0x0000000000000000       0x3a ./src/pr/PR_Timers.o
+ .debug_macro   0x0000000000000000       0x3a ./src/pr/PR_Timers.o
+ .debug_macro   0x0000000000000000       0x70 ./src/pr/PR_Timers.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_UART.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_UART.o
+ .group         0x0000000000000000        0xc ./src/pr/PR_UART.o
+ .text          0x0000000000000000        0x0 ./src/pr/PR_UART.o
+ .data          0x0000000000000000        0x0 ./src/pr/PR_UART.o
+ .bss           0x0000000000000000        0x0 ./src/pr/PR_UART.o
+ .text.SendData
+                0x0000000000000000       0x30 ./src/pr/PR_UART.o
+ .debug_info    0x0000000000000000      0x123 ./src/pr/PR_UART.o
+ .debug_abbrev  0x0000000000000000       0xba ./src/pr/PR_UART.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/pr/PR_UART.o
+ .debug_ranges  0x0000000000000000       0x10 ./src/pr/PR_UART.o
+ .debug_macro   0x0000000000000000       0x37 ./src/pr/PR_UART.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/pr/PR_UART.o
+ .debug_macro   0x0000000000000000       0x3a ./src/pr/PR_UART.o
+ .debug_macro   0x0000000000000000       0x88 ./src/pr/PR_UART.o
+ .debug_line    0x0000000000000000       0xff ./src/pr/PR_UART.o
+ .debug_str     0x0000000000000000     0x3223 ./src/pr/PR_UART.o
+ .comment       0x0000000000000000       0x76 ./src/pr/PR_UART.o
+ .debug_frame   0x0000000000000000       0x38 ./src/pr/PR_UART.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./src/pr/PR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_GPIO.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_GPIO.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_GPIO.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_GPIO.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_GPIO.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_GPIO.o
+ .text.SetPIN_ALT
+                0x0000000000000000       0x84 ./src/dr/DR_GPIO.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_GPIO.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_GPIO.o
+ .debug_macro   0x0000000000000000      0x130 ./src/dr/DR_GPIO.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_Keyboard.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_Keyboard.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_Keyboard.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_Keyboard.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_Keyboard.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_Keyboard.o
+ .debug_macro   0x0000000000000000       0x40 ./src/dr/DR_Keyboard.o
+ .debug_macro   0x0000000000000000       0x52 ./src/dr/DR_Keyboard.o
+ .debug_macro   0x0000000000000000      0x136 ./src/dr/DR_Keyboard.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_NVIC.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_NVIC.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_NVIC.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_NVIC.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_NVIC.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_NVIC.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_NVIC.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_NVIC.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_NVIC.o
+ .text.NVIC_EINT_Enable
+                0x0000000000000000      0x110 ./src/dr/DR_NVIC.o
+ .text.NVIC_Enable
+                0x0000000000000000       0x2c ./src/dr/DR_NVIC.o
+ .text.NVIC_Disable
+                0x0000000000000000       0x2c ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000000000       0x46 ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000000000      0x166 ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000000000      0x136 ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000000000       0x52 ./src/dr/DR_NVIC.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_PINSEL.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_PINSEL.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_PINSEL.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_PINSEL.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_PINSEL.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_PINSEL.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_PINSEL.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_PINSEL.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_PLL.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_PLL.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_PLL.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_PLL.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_PLL.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_PLL.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_PLL.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_PLL.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_SysTick.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_SysTick.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_SysTick.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000       0x28 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000       0x52 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000      0x136 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000       0x46 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000      0x166 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000       0x8e ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000000000      0x118 ./src/dr/DR_SysTick.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/dr/DR_UART.o
+ .text          0x0000000000000000        0x0 ./src/dr/DR_UART.o
+ .data          0x0000000000000000        0x0 ./src/dr/DR_UART.o
+ .bss           0x0000000000000000        0x0 ./src/dr/DR_UART.o
+ .bss.g_inTx0   0x0000000000000000        0x1 ./src/dr/DR_UART.o
+ .bss.g_outTx0  0x0000000000000000        0x1 ./src/dr/DR_UART.o
+ .bss.g_bufferTx0
+                0x0000000000000000      0x200 ./src/dr/DR_UART.o
+ .bss.g_inTx1   0x0000000000000000        0x1 ./src/dr/DR_UART.o
+ .bss.g_outTx1  0x0000000000000000        0x1 ./src/dr/DR_UART.o
+ .bss.g_bufferTx1
+                0x0000000000000000      0x200 ./src/dr/DR_UART.o
+ .text.UARTn_PushTx
+                0x0000000000000000       0x9c ./src/dr/DR_UART.o
+ .text.UARTn_PopTx
+                0x0000000000000000       0x98 ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000       0x3a ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000       0x88 ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000      0x136 ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000       0x52 ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000       0x46 ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000000000      0x166 ./src/dr/DR_UART.o
+ .group         0x0000000000000000        0xc ./src/cr_startup_lpc175x_6x.o
+ .text          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/cr_startup_lpc175x_6x.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/crp.o
+ .text          0x0000000000000000        0x0 ./src/crp.o
+ .data          0x0000000000000000        0x0 ./src/crp.o
+ .bss           0x0000000000000000        0x0 ./src/crp.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/crp.o
+ .group         0x0000000000000000        0xc ./src/testing.o
+ .group         0x0000000000000000        0xc ./src/testing.o
+ .group         0x0000000000000000        0xc ./src/testing.o
+ .group         0x0000000000000000        0xc ./src/testing.o
+ .text          0x0000000000000000        0x0 ./src/testing.o
+ .data          0x0000000000000000        0x0 ./src/testing.o
+ .bss           0x0000000000000000        0x0 ./src/testing.o
+ .debug_macro   0x0000000000000000      0xa9c ./src/testing.o
+ .debug_macro   0x0000000000000000       0x3a ./src/testing.o
+ .debug_macro   0x0000000000000000       0x22 ./src/testing.o
+ .text          0x0000000000000000        0x0 /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+ .data          0x0000000000000000        0x0 /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+ .bss           0x0000000000000000        0x0 /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x0000000000000000 0x0000000000080000 xr
+RamLoc32         0x0000000010000000 0x0000000000008000 xrw
+RamAHB32         0x000000002007c000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/sm/SM_blinking.o
+LOAD ./src/sm/SM_operating.o
+LOAD ./src/sm/SM_standby.o
+LOAD ./src/sm/SM_system.o
+LOAD ./src/pr/PR_Keyboard.o
+LOAD ./src/pr/PR_LEDS.o
+LOAD ./src/pr/PR_Timers.o
+LOAD ./src/pr/PR_UART.o
+LOAD ./src/dr/DR_GPIO.o
+LOAD ./src/dr/DR_Keyboard.o
+LOAD ./src/dr/DR_NVIC.o
+LOAD ./src/dr/DR_PINSEL.o
+LOAD ./src/dr/DR_PLL.o
+LOAD ./src/dr/DR_SysTick.o
+LOAD ./src/dr/DR_UART.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/testing.o
+START GROUP
+LOAD /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a
+LOAD /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libcr_eabihelpers.a
+LOAD /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a
+END GROUP
+                0x0000000000000000                __base_MFlash512 = 0x0
+                0x0000000000000000                __base_Flash = 0x0
+                0x0000000000080000                __top_MFlash512 = 0x80000
+                0x0000000000080000                __top_Flash = 0x80000
+                0x0000000010000000                __base_RamLoc32 = 0x10000000
+                0x0000000010000000                __base_RAM = 0x10000000
+                0x0000000010008000                __top_RamLoc32 = 0x10008000
+                0x0000000010008000                __top_RAM = 0x10008000
+                0x000000002007c000                __base_RamAHB32 = 0x2007c000
+                0x000000002007c000                __base_RAM2 = 0x2007c000
+                0x0000000020084000                __top_RamAHB32 = 0x20084000
+                0x0000000020084000                __top_RAM2 = 0x20084000
+
+.text           0x0000000000000000     0x104c
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000cc                . = ALIGN (0x4)
+                0x00000000000000cc                __section_table_start = .
+                0x00000000000000cc                __data_section_table = .
+                0x00000000000000cc        0x4 LONG 0x104c LOADADDR (.data)
+                0x00000000000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000000000000d4        0x4 LONG 0x4 SIZEOF (.data)
+                0x00000000000000d8        0x4 LONG 0x104c LOADADDR (.data_RAM2)
+                0x00000000000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x00000000000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x00000000000000e4                __data_section_table_end = .
+                0x00000000000000e4                __bss_section_table = .
+                0x00000000000000e4        0x4 LONG 0x10000004 ADDR (.bss)
+                0x00000000000000e8        0x4 LONG 0x70 SIZEOF (.bss)
+                0x00000000000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x00000000000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x00000000000000f4                __bss_section_table_end = .
+                0x00000000000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000000000000f4      0x128 ./src/cr_startup_lpc175x_6x.o
+                0x00000000000000f4                data_init
+                0x0000000000000136                bss_init
+                0x000000000000016c                ResetISR
+                0x00000000000001e0                NMI_Handler
+                0x00000000000001e6                HardFault_Handler
+                0x00000000000001ec                MemManage_Handler
+                0x00000000000001f2                BusFault_Handler
+                0x00000000000001f8                UsageFault_Handler
+                0x00000000000001fe                SVC_Handler
+                0x0000000000000204                DebugMon_Handler
+                0x000000000000020a                PendSV_Handler
+                0x0000000000000216                TIMER2_IRQHandler
+                0x0000000000000216                RIT_IRQHandler
+                0x0000000000000216                I2C0_IRQHandler
+                0x0000000000000216                USBActivity_IRQHandler
+                0x0000000000000216                PWM1_IRQHandler
+                0x0000000000000216                I2C1_IRQHandler
+                0x0000000000000216                UART1_IRQHandler
+                0x0000000000000216                CANActivity_IRQHandler
+                0x0000000000000216                TIMER3_IRQHandler
+                0x0000000000000216                UART0_IRQHandler
+                0x0000000000000216                IntDefaultHandler
+                0x0000000000000216                PLL0_IRQHandler
+                0x0000000000000216                CAN_IRQHandler
+                0x0000000000000216                PLL1_IRQHandler
+                0x0000000000000216                SSP0_IRQHandler
+                0x0000000000000216                I2S_IRQHandler
+                0x0000000000000216                I2C2_IRQHandler
+                0x0000000000000216                RTC_IRQHandler
+                0x0000000000000216                TIMER0_IRQHandler
+                0x0000000000000216                SPI_IRQHandler
+                0x0000000000000216                TIMER1_IRQHandler
+                0x0000000000000216                UART2_IRQHandler
+                0x0000000000000216                ADC_IRQHandler
+                0x0000000000000216                SSP1_IRQHandler
+                0x0000000000000216                USB_IRQHandler
+                0x0000000000000216                BOD_IRQHandler
+                0x0000000000000216                WDT_IRQHandler
+                0x0000000000000216                QEI_IRQHandler
+                0x0000000000000216                DMA_IRQHandler
+                0x0000000000000216                UART3_IRQHandler
+                0x0000000000000216                MCPWM_IRQHandler
+                0x0000000000000216                ENET_IRQHandler
+                0x00000000000002fc                . = 0x2fc
+ *fill*         0x000000000000021c       0xe0 ff
+                0x00000000000002fc                PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x00000000000002fc        0x4 ./src/crp.o
+                0x00000000000002fc                CRP_WORD
+                0x0000000000000300                PROVIDE (__CRP_WORD_END__ = .)
+                0x0000000000000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.Blinking
+                0x0000000000000300       0xdc ./src/sm/SM_blinking.o
+                0x0000000000000300                Blinking
+ .text.SystemOperating
+                0x00000000000003dc       0x2e ./src/sm/SM_operating.o
+                0x00000000000003dc                SystemOperating
+ .text.SystemStandby
+                0x000000000000040a       0x20 ./src/sm/SM_standby.o
+                0x000000000000040a                SystemStandby
+ .text.SystemInitialize
+                0x000000000000042a       0x22 ./src/sm/SM_system.o
+                0x000000000000042a                SystemInitialize
+ .text.SystemConfigure
+                0x000000000000044c       0x18 ./src/sm/SM_system.o
+                0x000000000000044c                SystemConfigure
+ .text.SystemRun
+                0x0000000000000464       0x68 ./src/sm/SM_system.o
+                0x0000000000000464                SystemRun
+ .text.SystemInterrupts
+                0x00000000000004cc       0x58 ./src/sm/SM_system.o
+                0x00000000000004cc                SystemInterrupts
+ .text.GetKey   0x0000000000000524       0x30 ./src/pr/PR_Keyboard.o
+                0x0000000000000524                GetKey
+ .text.LED_Initialize
+                0x0000000000000554       0x9c ./src/pr/PR_LEDS.o
+                0x0000000000000554                LED_Initialize
+ .text.ALL_LEDS_Initialize
+                0x00000000000005f0       0x28 ./src/pr/PR_LEDS.o
+                0x00000000000005f0                ALL_LEDS_Initialize
+ .text.LED_ON   0x0000000000000618       0x64 ./src/pr/PR_LEDS.o
+                0x0000000000000618                LED_ON
+ .text.LED_OFF  0x000000000000067c       0x64 ./src/pr/PR_LEDS.o
+                0x000000000000067c                LED_OFF
+ .text.Timers_Initialize
+                0x00000000000006e0       0x60 ./src/pr/PR_Timers.o
+                0x00000000000006e0                Timers_Initialize
+ .text.Timers_Daemon
+                0x0000000000000740       0x9c ./src/pr/PR_Timers.o
+                0x0000000000000740                Timers_Daemon
+ .text.TimerSet
+                0x00000000000007dc       0x90 ./src/pr/PR_Timers.o
+                0x00000000000007dc                TimerSet
+ .text.TimerStart
+                0x000000000000086c       0x44 ./src/pr/PR_Timers.o
+                0x000000000000086c                TimerStart
+ .text.GetTimerFlag
+                0x00000000000008b0       0x2c ./src/pr/PR_Timers.o
+                0x00000000000008b0                GetTimerFlag
+ .text.TimerClear
+                0x00000000000008dc       0x54 ./src/pr/PR_Timers.o
+                0x00000000000008dc                TimerClear
+ .text.SetDIR   0x0000000000000930       0x76 ./src/dr/DR_GPIO.o
+                0x0000000000000930                SetDIR
+ .text.SetMODE  0x00000000000009a6       0x8a ./src/dr/DR_GPIO.o
+                0x00000000000009a6                SetMODE
+ .text.SetPIN   0x0000000000000a30       0x86 ./src/dr/DR_GPIO.o
+                0x0000000000000a30                SetPIN
+ .text.GetPIN   0x0000000000000ab6       0x3e ./src/dr/DR_GPIO.o
+                0x0000000000000ab6                GetPIN
+ .text.Keyboard_Initialize
+                0x0000000000000af4       0x8c ./src/dr/DR_Keyboard.o
+                0x0000000000000af4                Keyboard_Initialize
+ .text.KeyPressed
+                0x0000000000000b80       0x5c ./src/dr/DR_Keyboard.o
+                0x0000000000000b80                KeyPressed
+ .text.Keyboard_Daemon
+                0x0000000000000bdc       0x68 ./src/dr/DR_Keyboard.o
+                0x0000000000000bdc                Keyboard_Daemon
+ .text.EINT0_IRQHandler
+                0x0000000000000c44       0x28 ./src/dr/DR_NVIC.o
+                0x0000000000000c44                EINT0_IRQHandler
+ .text.EINT1_IRQHandler
+                0x0000000000000c6c       0x28 ./src/dr/DR_NVIC.o
+                0x0000000000000c6c                EINT1_IRQHandler
+ .text.EINT2_IRQHandler
+                0x0000000000000c94       0x28 ./src/dr/DR_NVIC.o
+                0x0000000000000c94                EINT2_IRQHandler
+ .text.EINT3_IRQHandler
+                0x0000000000000cbc       0x28 ./src/dr/DR_NVIC.o
+                0x0000000000000cbc                EINT3_IRQHandler
+ .text.SetPINSEL
+                0x0000000000000ce4       0x8a ./src/dr/DR_PINSEL.o
+                0x0000000000000ce4                SetPINSEL
+ *fill*         0x0000000000000d6e        0x2 ff
+ .text.PLL_Initialize
+                0x0000000000000d70      0x140 ./src/dr/DR_PLL.o
+                0x0000000000000d70                PLL_Initialize
+ .text.SysTick_Initialize
+                0x0000000000000eb0       0x4c ./src/dr/DR_SysTick.o
+                0x0000000000000eb0                SysTick_Initialize
+ .text.SysTick_Handler
+                0x0000000000000efc       0x10 ./src/dr/DR_SysTick.o
+                0x0000000000000efc                SysTick_Handler
+ .text.UARTn_Initialize
+                0x0000000000000f0c      0x124 ./src/dr/DR_UART.o
+                0x0000000000000f0c                UARTn_Initialize
+ .text.main     0x0000000000001030       0x16 ./src/testing.o
+                0x0000000000001030                main
+ .text.__weak_main
+                0x0000000000001046        0x4 /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                0x0000000000001046                __main
+                0x0000000000001046                __weak_main
+ *(.rodata .rodata.* .constdata .constdata.*)
+                0x000000000000104c                . = ALIGN (0x4)
+ *fill*         0x000000000000104a        0x2 ff
+
+.glue_7         0x000000000000104c        0x0
+ .glue_7        0x000000000000104c        0x0 linker stubs
+
+.glue_7t        0x000000000000104c        0x0
+ .glue_7t       0x000000000000104c        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000104c        0x0
+ .vfp11_veneer  0x000000000000104c        0x0 linker stubs
+
+.v4_bx          0x000000000000104c        0x0
+ .v4_bx         0x000000000000104c        0x0 linker stubs
+
+.iplt           0x000000000000104c        0x0
+ .iplt          0x000000000000104c        0x0 ./src/sm/SM_blinking.o
+
+.rel.dyn        0x000000000000104c        0x0
+ .rel.iplt      0x000000000000104c        0x0 ./src/sm/SM_blinking.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000000104c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000000000000104c                __exidx_end = .
+                0x000000000000104c                _etext = .
+
+.data_RAM2      0x000000002007c000        0x0 load address 0x000000000000104c
+ FILL mask 0xff
+                [!provide]                        PROVIDE (__start_data_RAM2 = .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2)
+ *(.data.$RamAHB32)
+ *(.data.$RAM2.*)
+ *(.data.$RamAHB32.*)
+                0x000000002007c000                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__end_data_RAM2 = .)
+
+.uninit_RESERVED
+                0x0000000010000000        0x0
+                0x0000000010000000                . = ALIGN (0x4)
+ *(.bss.$RESERVED*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _end_uninit_RESERVED = .
+
+.data           0x0000000010000000        0x4 load address 0x000000000000104c
+ FILL mask 0xff
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.led_state.3724
+                0x0000000010000000        0x1 ./src/sm/SM_blinking.o
+                0x0000000010000004                . = ALIGN (0x4)
+ *fill*         0x0000000010000001        0x3 ff
+                0x0000000010000004                _edata = .
+
+.igot.plt       0x0000000010000004        0x0 load address 0x0000000000001050
+ .igot.plt      0x0000000010000004        0x0 ./src/sm/SM_blinking.o
+
+.bss_RAM2       0x000000002007c000        0x0
+                0x000000002007c000                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__start_bss_RAM2 = .)
+ *(.bss.$RAM2)
+ *(.bss.$RamAHB32)
+ *(.bss.$RAM2.*)
+ *(.bss.$RamAHB32.*)
+                0x000000002007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                        PROVIDE (__end_bss_RAM2 = .)
+
+.bss            0x0000000010000004       0x70
+                0x0000000010000004                . = ALIGN (0x4)
+                0x0000000010000004                _bss = .
+ *(.bss*)
+ .bss.g_systemState
+                0x0000000010000004        0x1 ./src/sm/SM_system.o
+                0x0000000010000004                g_systemState
+ *fill*         0x0000000010000005        0x3 
+ .bss.LED_FLAG  0x0000000010000008        0x3 ./src/pr/PR_LEDS.o
+ *fill*         0x000000001000000b        0x1 
+ .bss.g_timer   0x000000001000000c       0x60 ./src/pr/PR_Timers.o
+                0x000000001000000c                g_timer
+ .bss.g_keyboardBuffer
+                0x000000001000006c        0x1 ./src/dr/DR_Keyboard.o
+                0x000000001000006c                g_keyboardBuffer
+ .bss.last_key.3707
+                0x000000001000006d        0x1 ./src/dr/DR_Keyboard.o
+ .bss.count.3708
+                0x000000001000006e        0x1 ./src/dr/DR_Keyboard.o
+ .bss.flag_EXTINT0
+                0x000000001000006f        0x1 ./src/dr/DR_NVIC.o
+                0x000000001000006f                flag_EXTINT0
+ .bss.flag_EXTINT1
+                0x0000000010000070        0x1 ./src/dr/DR_NVIC.o
+                0x0000000010000070                flag_EXTINT1
+ .bss.flag_EXTINT2
+                0x0000000010000071        0x1 ./src/dr/DR_NVIC.o
+                0x0000000010000071                flag_EXTINT2
+ .bss.flag_EXTINT3
+                0x0000000010000072        0x1 ./src/dr/DR_NVIC.o
+                0x0000000010000072                flag_EXTINT3
+ *(COMMON)
+                0x0000000010000074                . = ALIGN (0x4)
+ *fill*         0x0000000010000073        0x1 
+                0x0000000010000074                _ebss = .
+                [!provide]                        PROVIDE (end = .)
+
+.noinit_RAM2    0x000000002007c000        0x0
+                0x000000002007c000                . = ALIGN (0x4)
+ *(.noinit.$RAM2)
+ *(.noinit.$RamAHB32)
+ *(.noinit.$RAM2.*)
+ *(.noinit.$RamAHB32.*)
+                0x000000002007c000                . = ALIGN (0x4)
+
+.noinit         0x0000000010000074        0x0
+                0x0000000010000074                . = ALIGN (0x4)
+                0x0000000010000074                _noinit = .
+ *(.noinit*)
+                0x0000000010000074                . = ALIGN (0x4)
+                0x0000000010000074                _end_noinit = .
+                [!provide]                        PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010008000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xffffffffefff74f2                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x0000000000000000                _image_start = LOADADDR (.text)
+                0x0000000000001050                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000001050                _image_size = (_image_end - _image_start)
+OUTPUT(testing.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x1519
+ .debug_info    0x0000000000000000      0x11f ./src/sm/SM_blinking.o
+ .debug_info    0x000000000000011f       0x82 ./src/sm/SM_operating.o
+ .debug_info    0x00000000000001a1       0x82 ./src/sm/SM_standby.o
+ .debug_info    0x0000000000000223      0x1e2 ./src/sm/SM_system.o
+ .debug_info    0x0000000000000405       0x97 ./src/pr/PR_Keyboard.o
+ .debug_info    0x000000000000049c      0x148 ./src/pr/PR_LEDS.o
+ .debug_info    0x00000000000005e4      0x2c7 ./src/pr/PR_Timers.o
+ .debug_info    0x00000000000008ab      0x1c0 ./src/dr/DR_GPIO.o
+ .debug_info    0x0000000000000a6b      0x105 ./src/dr/DR_Keyboard.o
+ .debug_info    0x0000000000000b70      0x1b9 ./src/dr/DR_NVIC.o
+ .debug_info    0x0000000000000d29       0xbb ./src/dr/DR_PINSEL.o
+ .debug_info    0x0000000000000de4       0x72 ./src/dr/DR_PLL.o
+ .debug_info    0x0000000000000e56      0x1a4 ./src/dr/DR_SysTick.o
+ .debug_info    0x0000000000000ffa      0x1e7 ./src/dr/DR_UART.o
+ .debug_info    0x00000000000011e1      0x276 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x0000000000001457       0x40 ./src/crp.o
+ .debug_info    0x0000000000001497       0x82 ./src/testing.o
+
+.debug_abbrev   0x0000000000000000      0xc0e
+ .debug_abbrev  0x0000000000000000       0xd6 ./src/sm/SM_blinking.o
+ .debug_abbrev  0x00000000000000d6       0x67 ./src/sm/SM_operating.o
+ .debug_abbrev  0x000000000000013d       0x67 ./src/sm/SM_standby.o
+ .debug_abbrev  0x00000000000001a4       0xe6 ./src/sm/SM_system.o
+ .debug_abbrev  0x000000000000028a       0x83 ./src/pr/PR_Keyboard.o
+ .debug_abbrev  0x000000000000030d       0xde ./src/pr/PR_LEDS.o
+ .debug_abbrev  0x00000000000003eb      0x160 ./src/pr/PR_Timers.o
+ .debug_abbrev  0x000000000000054b       0xc3 ./src/dr/DR_GPIO.o
+ .debug_abbrev  0x000000000000060e       0xdb ./src/dr/DR_Keyboard.o
+ .debug_abbrev  0x00000000000006e9       0xc6 ./src/dr/DR_NVIC.o
+ .debug_abbrev  0x00000000000007af       0x89 ./src/dr/DR_PINSEL.o
+ .debug_abbrev  0x0000000000000838       0x56 ./src/dr/DR_PLL.o
+ .debug_abbrev  0x000000000000088e       0xd7 ./src/dr/DR_SysTick.o
+ .debug_abbrev  0x0000000000000965       0xdc ./src/dr/DR_UART.o
+ .debug_abbrev  0x0000000000000a41      0x12a ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x0000000000000b6b       0x38 ./src/crp.o
+ .debug_abbrev  0x0000000000000ba3       0x6b ./src/testing.o
+
+.debug_aranges  0x0000000000000000      0x378
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/sm/SM_blinking.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./src/sm/SM_operating.o
+ .debug_aranges
+                0x0000000000000040       0x20 ./src/sm/SM_standby.o
+ .debug_aranges
+                0x0000000000000060       0x38 ./src/sm/SM_system.o
+ .debug_aranges
+                0x0000000000000098       0x20 ./src/pr/PR_Keyboard.o
+ .debug_aranges
+                0x00000000000000b8       0x40 ./src/pr/PR_LEDS.o
+ .debug_aranges
+                0x00000000000000f8       0x70 ./src/pr/PR_Timers.o
+ .debug_aranges
+                0x0000000000000168       0x40 ./src/dr/DR_GPIO.o
+ .debug_aranges
+                0x00000000000001a8       0x30 ./src/dr/DR_Keyboard.o
+ .debug_aranges
+                0x00000000000001d8       0x50 ./src/dr/DR_NVIC.o
+ .debug_aranges
+                0x0000000000000228       0x20 ./src/dr/DR_PINSEL.o
+ .debug_aranges
+                0x0000000000000248       0x20 ./src/dr/DR_PLL.o
+ .debug_aranges
+                0x0000000000000268       0x28 ./src/dr/DR_SysTick.o
+ .debug_aranges
+                0x0000000000000290       0x30 ./src/dr/DR_UART.o
+ .debug_aranges
+                0x00000000000002c0       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x0000000000000340       0x18 ./src/crp.o
+ .debug_aranges
+                0x0000000000000358       0x20 ./src/testing.o
+
+.debug_ranges   0x0000000000000000      0x260
+ .debug_ranges  0x0000000000000000       0x10 ./src/sm/SM_blinking.o
+ .debug_ranges  0x0000000000000010       0x10 ./src/sm/SM_operating.o
+ .debug_ranges  0x0000000000000020       0x10 ./src/sm/SM_standby.o
+ .debug_ranges  0x0000000000000030       0x28 ./src/sm/SM_system.o
+ .debug_ranges  0x0000000000000058       0x10 ./src/pr/PR_Keyboard.o
+ .debug_ranges  0x0000000000000068       0x30 ./src/pr/PR_LEDS.o
+ .debug_ranges  0x0000000000000098       0x60 ./src/pr/PR_Timers.o
+ .debug_ranges  0x00000000000000f8       0x30 ./src/dr/DR_GPIO.o
+ .debug_ranges  0x0000000000000128       0x20 ./src/dr/DR_Keyboard.o
+ .debug_ranges  0x0000000000000148       0x40 ./src/dr/DR_NVIC.o
+ .debug_ranges  0x0000000000000188       0x10 ./src/dr/DR_PINSEL.o
+ .debug_ranges  0x0000000000000198       0x10 ./src/dr/DR_PLL.o
+ .debug_ranges  0x00000000000001a8       0x18 ./src/dr/DR_SysTick.o
+ .debug_ranges  0x00000000000001c0       0x20 ./src/dr/DR_UART.o
+ .debug_ranges  0x00000000000001e0       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x0000000000000250       0x10 ./src/testing.o
+
+.debug_macro    0x0000000000000000     0x1a97
+ .debug_macro   0x0000000000000000       0x72 ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000072      0xa9c ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000b0e       0x3a ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000b48       0x22 ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000b6a       0x2e ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000b98       0x3a ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000bd2       0x70 ./src/sm/SM_blinking.o
+ .debug_macro   0x0000000000000c42       0x32 ./src/sm/SM_operating.o
+ .debug_macro   0x0000000000000c74       0x10 ./src/sm/SM_operating.o
+ .debug_macro   0x0000000000000c84       0x28 ./src/sm/SM_operating.o
+ .debug_macro   0x0000000000000cac       0x29 ./src/sm/SM_standby.o
+ .debug_macro   0x0000000000000cd5       0x10 ./src/sm/SM_standby.o
+ .debug_macro   0x0000000000000ce5       0xdf ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000dc4       0x22 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000de6       0x16 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000dfc       0x16 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000e12       0x40 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000e52       0x52 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000ea4      0x136 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000000fda       0x46 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000001020      0x166 ./src/sm/SM_system.o
+ .debug_macro   0x0000000000001186       0x8e ./src/sm/SM_system.o
+ .debug_macro   0x0000000000001214      0x118 ./src/sm/SM_system.o
+ .debug_macro   0x000000000000132c       0x37 ./src/pr/PR_Keyboard.o
+ .debug_macro   0x0000000000001363       0x40 ./src/pr/PR_Keyboard.o
+ .debug_macro   0x00000000000013a3       0x45 ./src/pr/PR_LEDS.o
+ .debug_macro   0x00000000000013e8       0x28 ./src/pr/PR_LEDS.o
+ .debug_macro   0x0000000000001410      0x130 ./src/pr/PR_LEDS.o
+ .debug_macro   0x0000000000001540       0x3c ./src/pr/PR_Timers.o
+ .debug_macro   0x000000000000157c       0x33 ./src/dr/DR_GPIO.o
+ .debug_macro   0x00000000000015af       0x3b ./src/dr/DR_Keyboard.o
+ .debug_macro   0x00000000000015ea       0x4c ./src/dr/DR_NVIC.o
+ .debug_macro   0x0000000000001636       0x33 ./src/dr/DR_PINSEL.o
+ .debug_macro   0x0000000000001669       0x4c ./src/dr/DR_PINSEL.o
+ .debug_macro   0x00000000000016b5       0x29 ./src/dr/DR_PLL.o
+ .debug_macro   0x00000000000016de      0x112 ./src/dr/DR_PLL.o
+ .debug_macro   0x00000000000017f0       0xad ./src/dr/DR_SysTick.o
+ .debug_macro   0x000000000000189d       0x76 ./src/dr/DR_SysTick.o
+ .debug_macro   0x0000000000001913       0x61 ./src/dr/DR_UART.o
+ .debug_macro   0x0000000000001974       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x0000000000001991       0x1a ./src/crp.o
+ .debug_macro   0x00000000000019ab       0x34 ./src/crp.o
+ .debug_macro   0x00000000000019df       0x36 ./src/testing.o
+ .debug_macro   0x0000000000001a15       0x82 ./src/testing.o
+
+.debug_line     0x0000000000000000     0x1aff
+ .debug_line    0x0000000000000000      0x1ce ./src/sm/SM_blinking.o
+ .debug_line    0x00000000000001ce      0x103 ./src/sm/SM_operating.o
+ .debug_line    0x00000000000002d1       0xeb ./src/sm/SM_standby.o
+ .debug_line    0x00000000000003bc      0x2c0 ./src/sm/SM_system.o
+ .debug_line    0x000000000000067c      0x106 ./src/pr/PR_Keyboard.o
+ .debug_line    0x0000000000000782      0x1f3 ./src/pr/PR_LEDS.o
+ .debug_line    0x0000000000000975      0x2e3 ./src/pr/PR_Timers.o
+ .debug_line    0x0000000000000c58      0x17d ./src/dr/DR_GPIO.o
+ .debug_line    0x0000000000000dd5      0x15b ./src/dr/DR_Keyboard.o
+ .debug_line    0x0000000000000f30      0x1f7 ./src/dr/DR_NVIC.o
+ .debug_line    0x0000000000001127       0xd2 ./src/dr/DR_PINSEL.o
+ .debug_line    0x00000000000011f9      0x1bf ./src/dr/DR_PLL.o
+ .debug_line    0x00000000000013b8      0x1c7 ./src/dr/DR_SysTick.o
+ .debug_line    0x000000000000157f      0x1ee ./src/dr/DR_UART.o
+ .debug_line    0x000000000000176d      0x15f ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000000000018cc       0xb5 ./src/crp.o
+ .debug_line    0x0000000000001981      0x17e ./src/testing.o
+
+.debug_str      0x0000000000000000     0x4fdc
+ .debug_str     0x0000000000000000     0x3149 ./src/sm/SM_blinking.o
+                                       0x3197 (size before relaxing)
+ .debug_str     0x0000000000003149       0x44 ./src/sm/SM_operating.o
+                                       0x2ece (size before relaxing)
+ .debug_str     0x000000000000318d       0x34 ./src/sm/SM_standby.o
+                                       0x2e95 (size before relaxing)
+ .debug_str     0x00000000000031c1     0x13c0 ./src/sm/SM_system.o
+                                       0x455c (size before relaxing)
+ .debug_str     0x0000000000004581       0x1f ./src/pr/PR_Keyboard.o
+                                       0x2f13 (size before relaxing)
+ .debug_str     0x00000000000045a0       0x61 ./src/pr/PR_LEDS.o
+                                       0x3440 (size before relaxing)
+ .debug_str     0x0000000000004601       0xa6 ./src/pr/PR_Timers.o
+                                       0x314c (size before relaxing)
+ .debug_str     0x00000000000046a7       0x5b ./src/dr/DR_GPIO.o
+                                       0x3307 (size before relaxing)
+ .debug_str     0x0000000000004702       0x56 ./src/dr/DR_Keyboard.o
+                                       0x347d (size before relaxing)
+ .debug_str     0x0000000000004758       0x95 ./src/dr/DR_NVIC.o
+                                       0x3971 (size before relaxing)
+ .debug_str     0x00000000000047ed       0x29 ./src/dr/DR_PINSEL.o
+                                       0x2f89 (size before relaxing)
+ .debug_str     0x0000000000004816       0x22 ./src/dr/DR_PLL.o
+                                       0x33dc (size before relaxing)
+ .debug_str     0x0000000000004838       0x3a ./src/dr/DR_SysTick.o
+                                       0x449f (size before relaxing)
+ .debug_str     0x0000000000004872       0x5c ./src/dr/DR_UART.o
+                                       0x3cd3 (size before relaxing)
+ .debug_str     0x00000000000048ce      0x1c6 ./src/cr_startup_lpc175x_6x.o
+                                       0x2f81 (size before relaxing)
+ .debug_str     0x0000000000004a94       0xe9 ./src/crp.o
+                                       0x2e8e (size before relaxing)
+ .debug_str     0x0000000000004b7d      0x45f ./src/testing.o
+                                       0x32f9 (size before relaxing)
+
+.comment        0x0000000000000000       0x75
+ .comment       0x0000000000000000       0x75 ./src/sm/SM_blinking.o
+                                         0x76 (size before relaxing)
+ .comment       0x0000000000000075       0x76 ./src/sm/SM_operating.o
+ .comment       0x0000000000000075       0x76 ./src/sm/SM_standby.o
+ .comment       0x0000000000000075       0x76 ./src/sm/SM_system.o
+ .comment       0x0000000000000075       0x76 ./src/pr/PR_Keyboard.o
+ .comment       0x0000000000000075       0x76 ./src/pr/PR_LEDS.o
+ .comment       0x0000000000000075       0x76 ./src/pr/PR_Timers.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_GPIO.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_Keyboard.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_NVIC.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_PINSEL.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_PLL.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_SysTick.o
+ .comment       0x0000000000000075       0x76 ./src/dr/DR_UART.o
+ .comment       0x0000000000000075       0x76 ./src/cr_startup_lpc175x_6x.o
+ .comment       0x0000000000000075       0x76 ./src/crp.o
+ .comment       0x0000000000000075       0x76 ./src/testing.o
+ .comment       0x0000000000000075       0x76 /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2d ./src/sm/SM_blinking.o
+ .ARM.attributes
+                0x000000000000002d       0x2d ./src/sm/SM_operating.o
+ .ARM.attributes
+                0x000000000000005a       0x2d ./src/sm/SM_standby.o
+ .ARM.attributes
+                0x0000000000000087       0x2d ./src/sm/SM_system.o
+ .ARM.attributes
+                0x00000000000000b4       0x2d ./src/pr/PR_Keyboard.o
+ .ARM.attributes
+                0x00000000000000e1       0x2d ./src/pr/PR_LEDS.o
+ .ARM.attributes
+                0x000000000000010e       0x2d ./src/pr/PR_Timers.o
+ .ARM.attributes
+                0x000000000000013b       0x2d ./src/dr/DR_GPIO.o
+ .ARM.attributes
+                0x0000000000000168       0x2d ./src/dr/DR_Keyboard.o
+ .ARM.attributes
+                0x0000000000000195       0x2d ./src/dr/DR_NVIC.o
+ .ARM.attributes
+                0x00000000000001c2       0x2d ./src/dr/DR_PINSEL.o
+ .ARM.attributes
+                0x00000000000001ef       0x2d ./src/dr/DR_PLL.o
+ .ARM.attributes
+                0x000000000000021c       0x2d ./src/dr/DR_SysTick.o
+ .ARM.attributes
+                0x0000000000000249       0x2d ./src/dr/DR_UART.o
+ .ARM.attributes
+                0x0000000000000276       0x2d ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000000000002a3       0x33 ./src/crp.o
+ .ARM.attributes
+                0x00000000000002d6       0x2d ./src/testing.o
+ .ARM.attributes
+                0x0000000000000303       0x2d /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+
+.debug_frame    0x0000000000000000      0x900
+ .debug_frame   0x0000000000000000       0x34 ./src/sm/SM_blinking.o
+ .debug_frame   0x0000000000000034       0x34 ./src/sm/SM_operating.o
+ .debug_frame   0x0000000000000068       0x38 ./src/sm/SM_standby.o
+ .debug_frame   0x00000000000000a0       0x88 ./src/sm/SM_system.o
+ .debug_frame   0x0000000000000128       0x38 ./src/pr/PR_Keyboard.o
+ .debug_frame   0x0000000000000160       0xc4 ./src/pr/PR_LEDS.o
+ .debug_frame   0x0000000000000224      0x1b8 ./src/pr/PR_Timers.o
+ .debug_frame   0x00000000000003dc       0xd8 ./src/dr/DR_GPIO.o
+ .debug_frame   0x00000000000004b4       0x74 ./src/dr/DR_Keyboard.o
+ .debug_frame   0x0000000000000528      0x104 ./src/dr/DR_NVIC.o
+ .debug_frame   0x000000000000062c       0x38 ./src/dr/DR_PINSEL.o
+ .debug_frame   0x0000000000000664       0x30 ./src/dr/DR_PLL.o
+ .debug_frame   0x0000000000000694       0x4c ./src/dr/DR_SysTick.o
+ .debug_frame   0x00000000000006e0       0x84 ./src/dr/DR_UART.o
+ .debug_frame   0x0000000000000764      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x00000000000008d4       0x2c ./src/testing.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+ALL_LEDS_Initialize                               ./src/pr/PR_LEDS.o
+                                                  ./src/sm/SM_system.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+Blinking                                          ./src/sm/SM_blinking.o
+                                                  ./src/sm/SM_operating.o
+BusFault_Handler                                  ./src/cr_startup_lpc175x_6x.o
+CANActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+CAN_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+CRP_WORD                                          ./src/crp.o
+DMA_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+DebugMon_Handler                                  ./src/cr_startup_lpc175x_6x.o
+EINT0_IRQHandler                                  ./src/dr/DR_NVIC.o
+EINT1_IRQHandler                                  ./src/dr/DR_NVIC.o
+EINT2_IRQHandler                                  ./src/dr/DR_NVIC.o
+EINT3_IRQHandler                                  ./src/dr/DR_NVIC.o
+ENET_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+GetKey                                            ./src/pr/PR_Keyboard.o
+                                                  ./src/sm/SM_system.o
+GetPIN                                            ./src/dr/DR_GPIO.o
+                                                  ./src/dr/DR_Keyboard.o
+                                                  ./src/pr/PR_LEDS.o
+GetTimerFlag                                      ./src/pr/PR_Timers.o
+                                                  ./src/sm/SM_blinking.o
+GetTimerTime                                      ./src/pr/PR_Timers.o
+HardFault_Handler                                 ./src/cr_startup_lpc175x_6x.o
+I2C0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C2_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2S_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+IntDefaultHandler                                 ./src/cr_startup_lpc175x_6x.o
+KeyPressed                                        ./src/dr/DR_Keyboard.o
+Keyboard_Daemon                                   ./src/dr/DR_Keyboard.o
+                                                  ./src/dr/DR_SysTick.o
+Keyboard_Initialize                               ./src/dr/DR_Keyboard.o
+                                                  ./src/sm/SM_system.o
+LED_Initialize                                    ./src/pr/PR_LEDS.o
+LED_OFF                                           ./src/pr/PR_LEDS.o
+                                                  ./src/sm/SM_blinking.o
+LED_ON                                            ./src/pr/PR_LEDS.o
+                                                  ./src/sm/SM_blinking.o
+LED_Status                                        ./src/pr/PR_LEDS.o
+MCPWM_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+MemManage_Handler                                 ./src/cr_startup_lpc175x_6x.o
+NMI_Handler                                       ./src/cr_startup_lpc175x_6x.o
+NVIC_Disable                                      ./src/dr/DR_NVIC.o
+NVIC_EINT_Enable                                  ./src/dr/DR_NVIC.o
+NVIC_Enable                                       ./src/dr/DR_NVIC.o
+PLL0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PLL1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PLL_Initialize                                    ./src/dr/DR_PLL.o
+                                                  ./src/sm/SM_system.o
+PWM1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PendSV_Handler                                    ./src/cr_startup_lpc175x_6x.o
+QEI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RIT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RTC_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+ResetISR                                          ./src/cr_startup_lpc175x_6x.o
+SPI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+SSP0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SSP1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SVC_Handler                                       ./src/cr_startup_lpc175x_6x.o
+SendData                                          ./src/pr/PR_UART.o
+SetDIR                                            ./src/dr/DR_GPIO.o
+                                                  ./src/dr/DR_Keyboard.o
+                                                  ./src/pr/PR_LEDS.o
+SetMODE                                           ./src/dr/DR_GPIO.o
+                                                  ./src/dr/DR_Keyboard.o
+SetPIN                                            ./src/dr/DR_GPIO.o
+                                                  ./src/pr/PR_LEDS.o
+SetPINSEL                                         ./src/dr/DR_PINSEL.o
+                                                  ./src/dr/DR_UART.o
+                                                  ./src/dr/DR_NVIC.o
+                                                  ./src/dr/DR_Keyboard.o
+                                                  ./src/pr/PR_LEDS.o
+SetPIN_ALT                                        ./src/dr/DR_GPIO.o
+SysTick_Handler                                   ./src/dr/DR_SysTick.o
+SysTick_Initialize                                ./src/dr/DR_SysTick.o
+                                                  ./src/sm/SM_system.o
+SystemConfigure                                   ./src/sm/SM_system.o
+                                                  ./src/testing.o
+SystemInitialize                                  ./src/sm/SM_system.o
+                                                  ./src/testing.o
+SystemInterrupts                                  ./src/sm/SM_system.o
+                                                  ./src/testing.o
+SystemOperating                                   ./src/sm/SM_operating.o
+                                                  ./src/sm/SM_system.o
+SystemRun                                         ./src/sm/SM_system.o
+                                                  ./src/testing.o
+SystemStandby                                     ./src/sm/SM_standby.o
+                                                  ./src/sm/SM_system.o
+TIMER0_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER1_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER2_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER3_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TimerClear                                        ./src/pr/PR_Timers.o
+                                                  ./src/sm/SM_blinking.o
+TimerEvent                                        ./src/pr/PR_Timers.o
+TimerPause                                        ./src/pr/PR_Timers.o
+TimerSet                                          ./src/pr/PR_Timers.o
+                                                  ./src/sm/SM_blinking.o
+TimerStart                                        ./src/pr/PR_Timers.o
+                                                  ./src/sm/SM_blinking.o
+TimerStop                                         ./src/pr/PR_Timers.o
+TimersClear                                       ./src/pr/PR_Timers.o
+Timers_Daemon                                     ./src/pr/PR_Timers.o
+                                                  ./src/dr/DR_SysTick.o
+Timers_Initialize                                 ./src/pr/PR_Timers.o
+                                                  ./src/sm/SM_system.o
+UART0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART1_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UARTn_Initialize                                  ./src/dr/DR_UART.o
+                                                  ./src/sm/SM_system.o
+UARTn_PopTx                                       ./src/dr/DR_UART.o
+UARTn_PushTx                                      ./src/dr/DR_UART.o
+USBActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+USB_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+UsageFault_Handler                                ./src/cr_startup_lpc175x_6x.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+__bss_section_table_end                           ./src/cr_startup_lpc175x_6x.o
+__data_section_table                              ./src/cr_startup_lpc175x_6x.o
+__data_section_table_end                          ./src/cr_startup_lpc175x_6x.o
+__main                                            /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc175x_6x.o
+__valid_user_code_checksum                        ./src/cr_startup_lpc175x_6x.o
+__weak_main                                       /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc175x_6x.o
+bss_init                                          ./src/cr_startup_lpc175x_6x.o
+data_init                                         ./src/cr_startup_lpc175x_6x.o
+flag_EXTINT0                                      ./src/dr/DR_NVIC.o
+                                                  ./src/sm/SM_system.o
+flag_EXTINT1                                      ./src/dr/DR_NVIC.o
+                                                  ./src/sm/SM_system.o
+flag_EXTINT2                                      ./src/dr/DR_NVIC.o
+                                                  ./src/sm/SM_system.o
+flag_EXTINT3                                      ./src/dr/DR_NVIC.o
+                                                  ./src/sm/SM_system.o
+g_bufferTx0                                       ./src/dr/DR_UART.o
+g_bufferTx1                                       ./src/dr/DR_UART.o
+g_inTx0                                           ./src/dr/DR_UART.o
+g_inTx1                                           ./src/dr/DR_UART.o
+g_keyboardBuffer                                  ./src/dr/DR_Keyboard.o
+                                                  ./src/pr/PR_Keyboard.o
+g_outTx0                                          ./src/dr/DR_UART.o
+g_outTx1                                          ./src/dr/DR_UART.o
+g_pfnVectors                                      ./src/cr_startup_lpc175x_6x.o
+g_systemState                                     ./src/sm/SM_system.o
+g_timer                                           ./src/pr/PR_Timers.o
+main                                              ./src/testing.o
+                                                  /usr/local/mcuxpressoide-11.0.0_2516/ide/plugins/com.nxp.mcuxpresso.tools.linux_11.0.0.201905131304/tools/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libcr_c.a(__weak__main.o)

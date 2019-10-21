@@ -1,0 +1,11 @@
+PR_Timers.c:13:6:Timers_Initialize	16	static
+PR_Timers.c:23:6:Timers_Daemon	16	static
+PR_Timers.c:38:6:TimerSet	24	static
+PR_Timers.c:59:6:TimerStart	16	static
+PR_Timers.c:67:6:TimerStop	16	static
+PR_Timers.c:76:10:GetTimerTime	16	static
+PR_Timers.c:80:10:GetTimerFlag	16	static
+PR_Timers.c:84:6:TimerPause	16	static
+PR_Timers.c:92:9:TimerEvent	16	static
+PR_Timers.c:107:6:TimersClear	8	static
+PR_Timers.c:112:6:TimerClear	16	static

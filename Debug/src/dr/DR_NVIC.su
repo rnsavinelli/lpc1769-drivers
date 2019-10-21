@@ -1,0 +1,7 @@
+DR_NVIC.c:19:6:NVIC_EINT_Enable	16	static
+DR_NVIC.c:60:6:NVIC_Enable	16	static
+DR_NVIC.c:65:6:NVIC_Disable	16	static
+DR_NVIC.c:71:6:EINT0_IRQHandler	4	static
+DR_NVIC.c:77:6:EINT1_IRQHandler	4	static
+DR_NVIC.c:83:6:EINT2_IRQHandler	4	static
+DR_NVIC.c:89:6:EINT3_IRQHandler	4	static
