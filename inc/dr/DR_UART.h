@@ -15,6 +15,12 @@
 // #define		UART2		2
 // #define		UART3		3
 
+/* Pins to interact with the UART's */
+#define		TXD0		0, 2
+#define		RXD0		0, 3
+#define		TXD1		0, 15
+#define		RXD1		0, 16
+
 #define		PCONP		( ( __RW uint32_t * ) 0x400FC0C4UL )
 
 /* UART0 uses PCONP[3]  */
@@ -78,8 +84,19 @@
 // #define		U2LCR		(* ( __RW uint32_t * ) 0x4009800CUL )
 // #define		U3LCR		(* ( __RW uint32_t * ) 0x4009C00CUL )
 
+/* Line Status Register */
+#define		U0LSR		(* ( __R uint32_t * ) 0x4000C014UL )
+#define		U1LSR		(* ( __R uint32_t * ) 0x40010014UL )
+// #define		U2LSR		(* ( __R uint32_t * ) 0x40098014UL )
+// #define		U3LSR		(* ( __R uint32_t * ) 0x4009C014UL )
+
 #define		TX0_BUFFER_SIZE		512
 #define		TX1_BUFFER_SIZE		512
+#define		RX0_BUFFER_SIZE		512
+#define		RX1_BUFFER_SIZE		512
+
+#define		UART0_BAUDRATE		9600
+#define		UART1_BAUDRATE		9600
 
 extern uint8_t g_inTx0, g_outTx0;
 extern uint8_t g_bufferTx0[TX0_BUFFER_SIZE];
@@ -89,10 +106,10 @@ extern uint8_t g_bufferTx1[TX1_BUFFER_SIZE];
 
 void UARTn_Initialize(uint8_t uart_number);
 
-void UARTn_Push_Tx(uint8_t uart_number, uint8_t data_byte);
+void UARTn_PushTx(uint8_t uart_number, uint8_t data_byte);
 int16_t UARTn_PopTx(uint8_t uart_number);
 
-void UARTn_Push_Rx(uint8_t uart_number, uint8_t data_byte);
+void UARTn_PushRx(uint8_t uart_number, uint8_t data_byte);
 int16_t UARTn_PopRx(uint8_t uart_number);
 
 #endif /* DR_UART_H_ */

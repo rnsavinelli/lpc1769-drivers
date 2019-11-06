@@ -9,6 +9,9 @@
 #include "DR_LPC1769.h"
 #include "PR_LPC1769.h"
 
+uint8_t only_once = 1;
+int8_t *ptr = "h";
+
 uint8_t g_systemState = STANDBY;
 
 void SystemInitialize(void) {
@@ -32,29 +35,38 @@ void SystemConfigure(void) {
 }
 
 void SystemRun(void) {
-    	switch (g_systemState) {
-    		case STANDBY:
-    			SystemStandby(RUNNING);
-    			if (GetKey() == EINT0) {
-    				SystemStandby(STOP);
-    				g_systemState = OPERATING;
-    			}
-    			break;
+	if (only_once) {
+		SendData(1, ptr, 1);
+		only_once = 0;
+	}
 
-    		case INTERRUPTED:
-    			break;
+	if (U0LSR & 0x20) {
+		LED_ON(BLUE);
+	}
 
-    		case OPERATING:
-    			SystemOperating(RUNNING);
-    			if (GetKey() == EINT0) {
-    				SystemOperating(STOP);
-    				g_systemState = STANDBY;
-    			}
-    			break;
+    switch (g_systemState) {
+    	case STANDBY:
+    		SystemStandby(RUNNING);
+    		if (GetKey() == EINT0) {
+    			SystemStandby(STOP);
+    			g_systemState = OPERATING;
+    		}
+    		break;
 
-    		default:
-    			SystemConfigure();
-				break;
+    	case INTERRUPTED:
+    		break;
+
+   		case OPERATING:
+    		SystemOperating(RUNNING);
+    		if (GetKey() == EINT0) {
+    			SystemOperating(STOP);
+    			g_systemState = STANDBY;
+    		}
+    		break;
+
+    	default:
+    		SystemConfigure();
+			break;
     }
 
     return;

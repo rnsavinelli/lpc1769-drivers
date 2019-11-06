@@ -16,5 +16,6 @@
 #include "DR_UART.h"
 #include "DR_PLL.h"
 #include "DR_Keyboard.h"
+#include "DR_ADC.h"
 
 #endif /* DR_LPC1769_H_ */

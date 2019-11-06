@@ -12,8 +12,8 @@
 
 /* Frequently used keys */
 #define		EINT0_PIN		2, 10
-#define		EINT1_PIN		2, 11
-#define		EINT2_PIN		2, 12
+#define		EINT1_PIN		0, 18
+#define		EINT2_PIN		0, 11
 #define		EINT3_PIN		2, 13
 
 #define DEBOUNCE_COUNT 5

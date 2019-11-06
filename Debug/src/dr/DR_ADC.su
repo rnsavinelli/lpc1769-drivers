@@ -1,0 +1,2 @@
+DR_ADC.c:12:6:ADC_Initialize	8	static
+DR_ADC.c:36:6:DAC_Initialize	8	static

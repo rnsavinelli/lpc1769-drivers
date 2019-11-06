@@ -22,8 +22,6 @@ int main(void) {
 
     while(1) {
     	SystemRun();
-    	//ReceiveData();
-
     	SystemInterrupts();
     }
 

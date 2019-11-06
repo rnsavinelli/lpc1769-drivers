@@ -1,3 +1,5 @@
-DR_UART.c:24:6:UARTn_Initialize	16	static
-DR_UART.c:58:6:UARTn_PushTx	16	static
-DR_UART.c:86:9:UARTn_PopTx	16	static
+DR_UART.c:31:6:UARTn_Initialize	16	static
+DR_UART.c:88:6:UARTn_PushTx	16	static
+DR_UART.c:116:9:UARTn_PopTx	16	static
+DR_UART.c:138:6:UARTn_PushRx	16	static
+DR_UART.c:158:9:UARTn_PopRx	16	static

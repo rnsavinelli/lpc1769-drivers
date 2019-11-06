@@ -4,6 +4,7 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../src/dr/DR_ADC.c \
 ../src/dr/DR_GPIO.c \
 ../src/dr/DR_Keyboard.c \
 ../src/dr/DR_NVIC.c \
@@ -13,6 +14,7 @@ C_SRCS += \
 ../src/dr/DR_UART.c 
 
 OBJS += \
+./src/dr/DR_ADC.o \
 ./src/dr/DR_GPIO.o \
 ./src/dr/DR_Keyboard.o \
 ./src/dr/DR_NVIC.o \
@@ -22,6 +24,7 @@ OBJS += \
 ./src/dr/DR_UART.o 
 
 C_DEPS += \
+./src/dr/DR_ADC.d \
 ./src/dr/DR_GPIO.d \
 ./src/dr/DR_Keyboard.d \
 ./src/dr/DR_NVIC.d \

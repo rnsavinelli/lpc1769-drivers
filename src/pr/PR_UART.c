@@ -10,9 +10,10 @@
 
 // need a flag to tell if the uart was initialized
 
-uint8_t SendData(uint8_t uart_number, const uint8_t * data, uint8_t data_length) {
+uint8_t SendData(uint8_t uart_number, const int8_t * data, uint8_t data_length) {
 	for(uint8_t i = 0; i < data_length; i++) {
-		//UARTn_Push_Tx(data[i]);
+		UARTn_PushTx(uart_number, data[i]);
 	}
+
 	return 0;
 }
