@@ -12,8 +12,6 @@
 #include "DR_NVIC.h"
 #include "PR_UART.h"
 
-// HACER VARIABLE PARA ANALIZAR SI LA UART ESTÁ INICIALIZADA
-
 /* VARIABLES FOR UART0 */
 uint8_t g_inTx0, g_outTx0;
 uint8_t g_bufferTx0[TX0_BUFFER_SIZE];
@@ -62,30 +60,29 @@ void UARTn_Initialize(uint8_t uart_number) {
 	return;
 }
 
-/*
 void UART0_IRQHandler(void)
 {
-	uint8_t iir_register, dataRx, dataTx;
+	uint8_t iir_register, dataTx;
 
 	do {
 		iir_register = U0IIR;
 
 		if(iir_register & (0x01 << 1) ) {
-			dataTx = PopTX_UART0();
-			if(dataTx != ) {
+			dataTx = UARTn_PopTx(UART0);
+			if(dataTx != EMPTY) {
 				U0THR = dataTx;
 			}
 		}
 
 		if(iir_register&(0x01<<2)) {
-			dataRx = U0RBR;
+			UARTn_PushRx(UART0, U0RBR);
 		}
 
 	} while(iir_register & 0x01);
 
 	return;
 }
-*/
+
 
 void UARTn_PushTx(uint8_t uart_number, uint8_t data_byte) {
 	if (uart_number == 0) {
