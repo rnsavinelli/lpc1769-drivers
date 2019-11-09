@@ -2,7 +2,7 @@
  * DR_LPC1769.h
  *
  *  Created on: 27 Sep 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_LPC1769_H_

@@ -1,10 +1,10 @@
 /*
 ===============================================================================
  Name        : testing.c
- Author      : $(author)
- Version     :
- Copyright   : $(copyright)
- Description : main definition
+ Author      : rnsavinelli (R. Nicolás Savinelli)
+ Version     : 1.0
+ License     : GPL-3.0
+ Description : main file
 ===============================================================================
 */
 

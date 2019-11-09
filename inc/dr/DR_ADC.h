@@ -2,7 +2,7 @@
  * DR_ADC.h
  *
  *  Created on: 6 Nov 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_ADC_H_

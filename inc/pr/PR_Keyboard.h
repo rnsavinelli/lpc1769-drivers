@@ -2,7 +2,7 @@
  * PR_Keyboard.h
  *
  *  Created on: 5 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef PR_KEYBOARD_H_

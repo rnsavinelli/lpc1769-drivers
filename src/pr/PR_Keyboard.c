@@ -2,7 +2,7 @@
  * PR_Keyboard.c
  *
  *  Created on: 5 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #include "DR_Keyboard.h"

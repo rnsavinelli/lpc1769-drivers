@@ -2,7 +2,7 @@
  * DR_PINSEL.h
  *
  *  Created on: 26 Sep 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_PINSEL_H_

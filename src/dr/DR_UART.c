@@ -2,7 +2,7 @@
  * DR_UART.c
  *
  *  Created on: 10 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #include "DR_UART.h"

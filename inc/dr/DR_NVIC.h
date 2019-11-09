@@ -2,7 +2,7 @@
  * DR_NVIC.h
  *
  *  Created on: 5 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_NVIC_H_

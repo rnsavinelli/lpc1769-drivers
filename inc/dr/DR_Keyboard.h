@@ -2,7 +2,7 @@
  * DR_Keyboard.h
  *
  *  Created on: 3 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_KEYBOARD_H_

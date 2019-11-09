@@ -2,7 +2,7 @@
  * SM_standby.h
  *
  *  Created on: 8 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef SM_STANDBY_H_

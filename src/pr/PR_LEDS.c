@@ -2,7 +2,7 @@
  * PR_LEDS.c
  *
  *  Created on: 27 Sep 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #include "PR_LEDS.h"

@@ -2,7 +2,7 @@
  * PR_UART.h
  *
  *  Created on: 17 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef PR_UART_H_

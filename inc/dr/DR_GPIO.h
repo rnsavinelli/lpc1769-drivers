@@ -2,7 +2,7 @@
  * DR_GPIO.h
  *
  *  Created on: 26 Sep 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_GPIO_H_

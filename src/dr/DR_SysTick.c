@@ -2,7 +2,7 @@
  * DR_SysTick.c
  *
  *  Created on: 22 Sep 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #include "DR_SysTick.h"

@@ -2,7 +2,7 @@
  * DR_Variables.h
  *
  *  Created on: 22 Sep 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef DR_VARIABLES_H_

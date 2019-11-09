@@ -2,7 +2,7 @@
  * SM_LPC1769.h
  *
  *  Created on: 8 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #ifndef SM_LPC1769_H_

@@ -2,7 +2,7 @@
  * SM_standby.c
  *
  *  Created on: 8 Oct 2019
- *      Author: rnsavinelli
+ *      Author: rnsavinelli (R. Nicolás Savinelli)
  */
 
 #include "SM_standby.h"
