@@ -7,7 +7,7 @@ This is a clean, fully-functional and unmodified version of the one I used witho
 
 ## Requirements/Dependencies
 
-These drivers where designed and compiled on the Linux version of [MCUXPRESSO IDE](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE).
+These drivers were designed and compiled on the Linux version of [MCUXPRESSO IDE](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE).
 
 ## License
 
