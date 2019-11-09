@@ -63,7 +63,7 @@ uint8_t KeyPressed(void) {
 
 void Keyboard_Daemon(void) {
 	static uint8_t last_key = NO_KEY;
-	static uint8_t count;
+	static uint8_t count = 0;
 	uint8_t key;
 
 	key = KeyPressed();
