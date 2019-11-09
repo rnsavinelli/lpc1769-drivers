@@ -1,6 +1,8 @@
 # LPC1769 Drivers
 
-These set of drivers are designed to work with the NXP LPCXpresso1769 and were used on a personal project for a course I took at University.
+These set of drivers are designed to work with the NXP LPCXpresso1769 rev D2 and were used on a personal project for a course I took at University 
+(Shuold work with latter or older versions too).
+
 This is a clean fully-functional and unmodified version of the one I used without the additional code that would make it otherwise useless.
 
 ## Requirements/Dependencies
