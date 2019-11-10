@@ -74,6 +74,9 @@ extern volatile uint32_t ADC5_value[SAMPLE_LIMIT];
 
 /* Functions */
 void ADC_Initialize(void);
+void ADC_IRQHandler(void);
+
 void DAC_Initialize(void);
+void DAC_ValueSet(uint16_t value);
 
 #endif /* DR_ADC_H_ */
