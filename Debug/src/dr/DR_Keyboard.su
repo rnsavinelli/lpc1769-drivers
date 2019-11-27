@@ -1,3 +1,0 @@
-DR_Keyboard.c:14:6:Keyboard_Initialize	8	static
-DR_Keyboard.c:42:9:KeyPressed	16	static
-DR_Keyboard.c:64:6:Keyboard_Daemon	16	static

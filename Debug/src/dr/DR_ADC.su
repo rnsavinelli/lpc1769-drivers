@@ -1,4 +1,0 @@
-DR_ADC.c:12:6:ADC_Initialize	8	static
-DR_ADC.c:39:6:DAC_Initialize	8	static
-DR_ADC.c:56:6:ADC_IRQHandler	4	static
-DR_ADC.c:61:6:DAC_SetValue	16	static

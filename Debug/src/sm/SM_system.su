@@ -1,4 +1,0 @@
-SM_system.c:14:6:SystemInitialize	8	static
-SM_system.c:29:6:SystemConfigure	4	static
-SM_system.c:34:6:SystemRun	8	static
-SM_system.c:65:6:SystemInterrupts	4	static

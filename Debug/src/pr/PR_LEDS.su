@@ -1,5 +1,0 @@
-PR_LEDS.c:15:6:LED_Initialize	16	static
-PR_LEDS.c:40:6:ALL_LEDS_Initialize	16	static
-PR_LEDS.c:46:6:LED_ON	16	static
-PR_LEDS.c:64:6:LED_OFF	16	static
-PR_LEDS.c:82:9:LED_Status	16	static
