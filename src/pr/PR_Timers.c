@@ -84,10 +84,20 @@ uint32_t GetTimerFlag(uint8_t index) {
 
 void TimerPause(uint8_t index) {
 	if(g_timer[index].time != TIMER_RESET) {
-		g_timer[index].flag = TIMER_OFF;
+		g_timer[index].flag = TIMER_PAUSE;
 	}
 
 	return;
+}
+
+void TimerResume(uint8_t index) {
+	if(g_timer[index].time != TIMER_RESET) {
+		if(g_timer[index].flag == TIMER_PAUSE){
+			g_timer[index].flag = TIMER_RUNNING;
+		}
+	}
+
+	return;	
 }
 
 uint8_t TimerEvent(uint8_t index) {
