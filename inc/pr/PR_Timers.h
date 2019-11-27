@@ -34,7 +34,8 @@ typedef struct timer {
 } timer_t;
 
 #define TIMER_RESET 	0
-#define TIMER_OFF		-1
+#define TIMER_OFF	-1
+#define TIMER_PAUSE	2
 #define TIMER_RUNNING	0
 #define TIMER_COMPLETED	1
 
@@ -56,6 +57,7 @@ void TimerSet(uint8_t index, uint32_t time, Timer_Handler handler , uint8_t base
 void TimerStart(uint8_t index);
 void TimerStop(uint8_t index);
 void TimerPause(uint8_t index);
+void TimerResume(uint8_t index);
 
 uint32_t GetTimerTime(uint8_t index);
 uint32_t GetTimerFlag(uint8_t index);
