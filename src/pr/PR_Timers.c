@@ -64,6 +64,13 @@ void TimerStart(uint8_t index) {
 	return;
 }
 
+void TimerSetAndStart(uint8_t index, uint32_t time, Timer_Handler handler , uint8_t base) {
+	TimerSet(index, time, handler, base);
+	TimerStart(index);
+
+	return;
+}
+
 void TimerStop(uint8_t index) {
 	if(g_timer[index].time != TIMER_RESET) {
 		g_timer[index].time = TIMER_RESET;
@@ -84,7 +91,7 @@ uint32_t GetTimerFlag(uint8_t index) {
 
 void TimerPause(uint8_t index) {
 	if(g_timer[index].time != TIMER_RESET) {
-		g_timer[index].flag = TIMER_PAUSE;
+		g_timer[index].flag = TIMER_OFF;
 	}
 
 	return;
@@ -97,22 +104,21 @@ void TimerResume(uint8_t index) {
 		}
 	}
 
-	return;	
+	return;
 }
 
-uint8_t TimerEvent(uint8_t index) {
-    if(g_timer[index].flag == TIMER_COMPLETED) {
-    	if(g_timer[index].handler != NULL) {
-    		g_timer[index].handler();
-    	}
-	    g_timer[index].time = TIMER_RESET;
-	    g_timer[index].flag = TIMER_OFF;
-	    g_timer[index].handler = NULL;
+void TimerEvents(void) {
+	for (uint8_t i = 0; i < MAX_TIMERS ; i++) {
+		if(g_timer[i].flag == TIMER_COMPLETED) {
+			if(g_timer[i].handler != NULL) {
+				g_timer[i].handler();
+			}
 
-	    return TIMER_COMPLETED;
+			g_timer[i].time = TIMER_RESET;
+			g_timer[i].flag = TIMER_OFF;
+			g_timer[i].handler = NULL;
+		}
 	}
-
-    else return TIMER_RUNNING;
 }
 
 void TimersClear(void) {

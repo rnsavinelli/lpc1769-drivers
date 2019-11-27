@@ -98,7 +98,7 @@
 #define		UART0_BAUDRATE		9600
 #define		UART1_BAUDRATE		9600
 
-#define		EMPTY				0
+#define		EMPTY				255
 
 extern uint8_t g_inTx0, g_outTx0;
 extern uint8_t g_bufferTx0[TX0_BUFFER_SIZE];

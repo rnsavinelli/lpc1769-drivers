@@ -9,9 +9,6 @@
 #include "DR_LPC1769.h"
 #include "PR_LPC1769.h"
 
-uint8_t only_once = 1;
-int8_t *ptr = "h";
-
 uint8_t g_systemState = STANDBY;
 
 void SystemInitialize(void) {
@@ -35,15 +32,6 @@ void SystemConfigure(void) {
 }
 
 void SystemRun(void) {
-	if (only_once) {
-		SendData(1, ptr, 1);
-		only_once = 0;
-	}
-
-	if (U0LSR & 0x20) {
-		LED_ON(BLUE);
-	}
-
     switch (g_systemState) {
     	case STANDBY:
     		SystemStandby(RUNNING);
@@ -68,6 +56,8 @@ void SystemRun(void) {
     		SystemConfigure();
 			break;
     }
+
+    TimerEvents();
 
     return;
 }
