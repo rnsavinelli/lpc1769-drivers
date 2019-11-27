@@ -68,6 +68,7 @@ void TimerStop(uint8_t index) {
 	if(g_timer[index].time != TIMER_RESET) {
 		g_timer[index].time = TIMER_RESET;
 		g_timer[index].flag = TIMER_OFF;
+		g_timer[index].handler = NULL;
 	}
 
 	return;
