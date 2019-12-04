@@ -11,5 +11,6 @@
 #include "DR_Variables.h"
 
 uint8_t SendData(uint8_t uart, const int8_t * data, uint8_t data_length);
+uint16_t Receive_Data(uint8_t uart_number);
 
 #endif /* PR_UART_H_ */
