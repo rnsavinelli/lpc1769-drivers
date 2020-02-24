@@ -2,7 +2,7 @@
 
 These set of drivers and primitives are designed to work with the NXP LPCXpresso1769 rev D2 2017 and were developed at UTN FRBA for the course R2004 Informática II as taught in 2019.
 
-This is not to be used as official documentation.
+This is not to be used, or interpreted, as official documentation.
 
 ## Requirements/Dependencies
 
