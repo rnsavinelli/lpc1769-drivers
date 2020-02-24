@@ -1,8 +1,8 @@
 # LPC1769 Drivers
 
-These set of drivers and primitives are designed to work with the NXP LPCXpresso1769 rev D2 2017 and were used on a personal project for a course I took at University (should work with latter and earlier versions too).
+These set of drivers and primitives are designed to work with the NXP LPCXpresso1769 rev D2 2017 and were developed at UTN FRBA for the course R2004 Informática II as taught in 2019.
 
-This is a clean, fully-functional and unmodified version of the one I used without the additional code that would make it otherwise useless.
+This is not to be used as official documentation.
 
 ## Requirements/Dependencies
 
