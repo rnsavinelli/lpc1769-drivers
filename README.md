@@ -11,5 +11,5 @@ These drivers were designed and compiled on the Linux version of [MCUXPRESSO IDE
 ## License
 
 GPLv3 License: https://www.gnu.org/licenses/gpl-3.0.txt or see the 
-[`LICENSE`](https://github.com/rnsavinelli/LPC1769-drivers/blob/master/LICENSE) file.
+[`LICENSE`](https://github.com/rnsavinelli/lpc1769-drivers/blob/master/LICENSE) file.
 
